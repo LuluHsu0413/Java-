@@ -1,0 +1,22 @@
+class ex3
+{
+	public static void main (String[] args)
+	{
+	byte X=10;//int(10)-->byte(10)-->autocasting (自動轉型)
+	byte x2=(byte)130;//調整範圍
+        System.out.println(x2);
+	short x3=130;
+	System.out.println(x3);
+	byte a1=10;
+	byte a2=20;
+	byte a3=10+30;
+	//byte a4=a1+a2;
+	byte a4= (byte) (a1+a2);
+	System.out.println(a4);
+	short a5=(short)(a1+a2);
+	System.out.println(a5);
+	int a6=a1+a2;
+	System.out.println(a6);
+	//Promotion ->byte, short的運算結果自動提升為int (只有java才有)
+	}
+}

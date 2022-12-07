@@ -1,0 +1,6 @@
+變數
+語法
+Data type 變數名=初始值
+1.Declare (宣告)
+2.type+記憶體 (型態+記憶體)
+reference

@@ -1,0 +1,7 @@
+1.撰寫原始碼 Source
+  →Java : EX ex1.java
+2.送到Compiler
+○javac ○Ex1.java →
+ a)檢查語法
+ b)產生機器碼ex1.class→byte code
+3.測試執行→RUN→JRE

@@ -1,0 +1,11 @@
+Primitive Type (資料型態) (均小寫)
+變數宣告的時候沒有給初始直
+整數:long , int , short, byte
+長度 64b, 32b ,16b, 8b
+浮點數:double, float
+長度   64b,  32b
+字元:char (用在製作鍵盤)
+長度 16b
+布林:Boolean (條件)
+
+String (字串) (不屬於primitive type (資料型態))

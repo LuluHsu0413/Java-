@@ -1,0 +1,4 @@
+Compiler原理
+1.call by reference (參考文件)
+  查關鍵字的定義(找出對應的執行碼)
+2.call by value
